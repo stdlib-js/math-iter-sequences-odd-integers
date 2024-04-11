@@ -50,7 +50,7 @@
   "devDependencies": {
     "@stdlib/assert-is-integer": "^0.2.1",
     "@stdlib/assert-is-iterator-like": "^0.2.1",
-    "@stdlib/math-base-assert-is-even": "^0.2.1",
+    "@stdlib/math-base-assert-is-even": "^0.2.2",
     "@stdlib/math-base-assert-is-nan": "^0.2.1",
     "@stdlib/math-base-assert-is-odd": "^0.2.1",
     "proxyquire": "^2.0.0",
