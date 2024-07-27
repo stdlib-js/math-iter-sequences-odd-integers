@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-odd-integers@deno/mod.js';
+import iterOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-odd-integers@v0.2.2-deno/mod.js';
 ```
 
 #### iterOddIntegersSeq( \[options] )
@@ -134,7 +134,7 @@ var bool = it.next().done;
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import iterOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-odd-integers@deno/mod.js';
+import iterOddIntegersSeq from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-sequences-odd-integers@v0.2.2-deno/mod.js';
 
 // Create an iterator:
 var opts = {
